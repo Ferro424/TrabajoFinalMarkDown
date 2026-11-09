@@ -33,7 +33,8 @@
 ## Imagen:
 
 - [Imagen Tigreton]
-(\TrabajoFinalMarkDown\TrabajoFinalMarkDown\Tigre.jpg)
+
+(/TrabajoFinalMarkDown/Tigre.jpg)
 
 
 ## Conclusión:
