@@ -11,7 +11,7 @@
 ## Peligro de extinción:
 - Los tigres están en peligro de extinción principalmente por culpa de las actividades humanas. Una de las mayores amenazas es la caza furtiva, ya que son perseguidos por su piel, sus huesos y otras partes de su cuerpo. Además, la destrucción de los bosques y selvas para construir ciudades, carreteras y zonas agrícolas reduce su hábitat natural. También sufren la disminución de sus presas, lo que dificulta que puedan encontrar alimento suficiente. Todo esto ha provocado que su población disminuya considerablemente con el paso de los años.
 
-# Lista numerada:
+## Lista numerada:
 
 1. **Historia y evolución:**
 2. **Hábitat y distribución geográfica:**
@@ -19,6 +19,11 @@
 4. **Tipos de tigres:**
 5. **Comportamiento:**
 
+## Curiosidades sobre los tigres
+
+* Los tigres son los felinos salvajes más grandes del mundo.
+* Cada tigre tiene un patrón de rayas diferente, igual que las huellas dactilares de las personas.
+* Pueden alcanzar una velocidad de unos 60 km/h en distancias cortas.
 
 - Al menos **dos secciones** con subtítulos (ejemplo: `## Historia`, `## Importancia`).  
 - Una **lista numerada** con ideas principales.  
