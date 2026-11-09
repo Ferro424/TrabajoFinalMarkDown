@@ -34,13 +34,9 @@
 
 - [Imagen Tigreton]
 
-(/TrabajoFinalMarkDown/Tigre.jpg)
+(Tigre.jpg)
 
 
 ## Conclusión:
 
-
-
- 
-- Una **imagen** relacionada (puede ser desde la web).  
-- Una **conclusión** de mínimo un párrafo.  
+- En conclusión, los tigres son animales increíbles y fundamentales para la naturaleza. Sin embargo, están en peligro de extinción, por lo que debemos protegerlos y cuidar su hábitat para evitar que desaparezcan.
