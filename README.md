@@ -17,8 +17,11 @@ El objetivo de este trabajo es **aprender a documentar en Markdown** y **gestion
 ### 2. Redactar el contenido en Markdown  
 Dentro del archivo `README.md`, escribe tu trabajo con la siguiente estructura:  
 
-- **Los Tigres** con el tema elegido.  
-- Una **introducción** breve (mínimo 3 párrafos).  
+- **Los Tigres**  
+- Los tigres son unos de los animales más fascinantes y majestuosos del mundo. Pertenecen a la familia de los felinos y destacan por su - - gran tamaño, su fuerza y su característico pelaje naranja con rayas negras. Son animales carnívoros y excelentes cazadores.
+- Habitan principalmente en los bosques, selvas y praderas de Asia, donde viven de forma solitaria y defienden su propio territorio. Se
+- alimentan de otros animales, como ciervos, jabalíes y búfalos. Además, son muy buenos nadadores y pueden recorrer grandes distancias en - busca de alimento.
+- Actualmente, los tigres se encuentran en peligro de extinción debido a la caza furtiva, la destrucción de su hábitat y la disminución  - de sus presas. Por este motivo, existen diferentes organizaciones y programas destinados a protegerlos y garantizar su supervivencia.  - Son una especie fundamental para mantener el equilibrio de los ecosistemas. ** 
 - Al menos **dos secciones** con subtítulos (ejemplo: `## Historia`, `## Importancia`).  
 - Una **lista numerada** con ideas principales.  
 - Una **lista con viñetas** con ejemplos o curiosidades.  
