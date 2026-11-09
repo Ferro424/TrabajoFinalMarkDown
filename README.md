@@ -25,9 +25,13 @@
 * Cada tigre tiene un patrón de rayas diferente, igual que las huellas dactilares de las personas.
 * Pueden alcanzar una velocidad de unos 60 km/h en distancias cortas.
 
-- Al menos **dos secciones** con subtítulos (ejemplo: `## Historia`, `## Importancia`).  
-- Una **lista numerada** con ideas principales.  
-- Una **lista con viñetas** con ejemplos o curiosidades.  
+## Enlace
+
+- El Tigre de Bengala
+- (https://es.wikipedia.org/wiki/Panthera_tigris_tigris)
+
+
+
 - Al menos **un enlace externo** a una fuente confiable.  
 - Una **imagen** relacionada (puede ser desde la web).  
 - Una **conclusión** de mínimo un párrafo.  
