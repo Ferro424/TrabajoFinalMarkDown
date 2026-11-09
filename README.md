@@ -27,12 +27,12 @@
 
 ## Enlace
 
-- [El Tigre de Bengala]
+- El Tigre de Bengala
 - (https://es.wikipedia.org/wiki/Panthera_tigris_tigris)
 
 ## Imagen:
 
-- [Imagen Tigreton]
+- Imagen del Tigreton
 
 - ![alt text](Tigre.jpg)
 
