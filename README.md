@@ -1,22 +1,5 @@
 # TrabajoFinalMarkDown
 # 📘 Trabajo práctico: Documentación en Markdown y GitHub
-
-## 🎯 Objetivo  
-El objetivo de este trabajo es **aprender a documentar en Markdown** y **gestionar un repositorio en GitHub**, aplicando conceptos básicos de control de versiones.
-
----
-
-## 📝 Instrucciones  
-
-### 1. Crear el repositorio en GitHub  
-1. Ingresa a tu cuenta de GitHub.  
-2. Crea un nuevo repositorio con el nombre:  
- trabajo-markdown-Nombre-Apellidos
-3. Selecciona la opción **“Add a README file”**.  
-
-### 2. Redactar el contenido en Markdown  
-Dentro del archivo `README.md`, escribe tu trabajo con la siguiente estructura:  
-
 - **Los Tigres**  
 - Los tigres son unos de los animales más fascinantes y majestuosos del mundo. Pertenecen a la familia de los felinos y destacan por su - - gran tamaño, su fuerza y su característico pelaje naranja con rayas negras. Son animales carnívoros y excelentes cazadores.
 - Habitan principalmente en los bosques, selvas y praderas de Asia, donde viven de forma solitaria y defienden su propio territorio.     - Se alimentan de otros animales, como ciervos, jabalíes y búfalos. Además, son muy buenos nadadores y pueden recorrer grandes distancias en busca de alimento.
