@@ -34,7 +34,7 @@
 
 - [Imagen Tigreton]
 
-(Tigre.jpg)
+- (Tigre.jpg)
 
 
 ## Conclusión:
